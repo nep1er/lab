@@ -1,0 +1,68 @@
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms\bin\Debug\net8.0-windows\Lab8WinForms.exe
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms\bin\Debug\net8.0-windows\Lab8WinForms.deps.json
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms\bin\Debug\net8.0-windows\Lab8WinForms.runtimeconfig.json
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms\bin\Debug\net8.0-windows\Lab8WinForms.dll
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms\bin\Debug\net8.0-windows\Lab8WinForms.pdb
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms\obj\Debug\net8.0-windows\Lab8WinForms.Form1.resources
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms\obj\Debug\net8.0-windows\Lab8WinForms.csproj.GenerateResource.cache
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms\obj\Debug\net8.0-windows\Lab8WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms\obj\Debug\net8.0-windows\Lab8WinForms.AssemblyInfoInputs.cache
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms\obj\Debug\net8.0-windows\Lab8WinForms.AssemblyInfo.cs
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms\obj\Debug\net8.0-windows\Lab8WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms\obj\Debug\net8.0-windows\Lab8WinForms.dll
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms\obj\Debug\net8.0-windows\refint\Lab8WinForms.dll
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms\obj\Debug\net8.0-windows\Lab8WinForms.pdb
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms\obj\Debug\net8.0-windows\Lab8WinForms.genruntimeconfig.cache
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms\obj\Debug\net8.0-windows\ref\Lab8WinForms.dll
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms\obj\Debug\net8.0-windows\Lab8WinForms.Properties.Resources.resources
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms — копия\bin\Debug\net8.0-windows\Lab8WinForms.exe
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms — копия\bin\Debug\net8.0-windows\Lab8WinForms.deps.json
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms — копия\bin\Debug\net8.0-windows\Lab8WinForms.runtimeconfig.json
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms — копия\bin\Debug\net8.0-windows\Lab8WinForms.dll
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms — копия\bin\Debug\net8.0-windows\Lab8WinForms.pdb
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms — копия\obj\Debug\net8.0-windows\Lab8WinForms.Form1.resources
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms — копия\obj\Debug\net8.0-windows\Lab8WinForms.Properties.Resources.resources
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms — копия\obj\Debug\net8.0-windows\Lab8WinForms.csproj.GenerateResource.cache
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms — копия\obj\Debug\net8.0-windows\Lab8WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms — копия\obj\Debug\net8.0-windows\Lab8WinForms.AssemblyInfoInputs.cache
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms — копия\obj\Debug\net8.0-windows\Lab8WinForms.AssemblyInfo.cs
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms — копия\obj\Debug\net8.0-windows\Lab8WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms — копия\obj\Debug\net8.0-windows\Lab8WinForms.dll
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms — копия\obj\Debug\net8.0-windows\refint\Lab8WinForms.dll
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms — копия\obj\Debug\net8.0-windows\Lab8WinForms.pdb
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms — копия\obj\Debug\net8.0-windows\Lab8WinForms.genruntimeconfig.cache
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab8WinForms — копия\obj\Debug\net8.0-windows\ref\Lab8WinForms.dll
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab10WinForms\bin\Debug\net8.0-windows\Lab8WinForms.exe
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab10WinForms\bin\Debug\net8.0-windows\Lab8WinForms.deps.json
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab10WinForms\bin\Debug\net8.0-windows\Lab8WinForms.runtimeconfig.json
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab10WinForms\bin\Debug\net8.0-windows\Lab8WinForms.dll
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab10WinForms\bin\Debug\net8.0-windows\Lab8WinForms.pdb
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab10WinForms\obj\Debug\net8.0-windows\Lab8WinForms.Form1.resources
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab10WinForms\obj\Debug\net8.0-windows\Lab8WinForms.Properties.Resources.resources
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab10WinForms\obj\Debug\net8.0-windows\Lab8WinForms.csproj.GenerateResource.cache
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab10WinForms\obj\Debug\net8.0-windows\Lab8WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab10WinForms\obj\Debug\net8.0-windows\Lab8WinForms.AssemblyInfoInputs.cache
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab10WinForms\obj\Debug\net8.0-windows\Lab8WinForms.AssemblyInfo.cs
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab10WinForms\obj\Debug\net8.0-windows\Lab8WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab10WinForms\obj\Debug\net8.0-windows\Lab8WinForms.dll
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab10WinForms\obj\Debug\net8.0-windows\refint\Lab8WinForms.dll
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab10WinForms\obj\Debug\net8.0-windows\Lab8WinForms.pdb
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab10WinForms\obj\Debug\net8.0-windows\Lab8WinForms.genruntimeconfig.cache
+C:\Users\Timofey\Desktop\College\Лабы по C#\Lab10WinForms\obj\Debug\net8.0-windows\ref\Lab8WinForms.dll
+C:\Users\Timofey\Desktop\College\Лабы по C#\LAB 11\Lab10WinForms\bin\Debug\net8.0-windows\Lab8WinForms.exe
+C:\Users\Timofey\Desktop\College\Лабы по C#\LAB 11\Lab10WinForms\bin\Debug\net8.0-windows\Lab8WinForms.deps.json
+C:\Users\Timofey\Desktop\College\Лабы по C#\LAB 11\Lab10WinForms\bin\Debug\net8.0-windows\Lab8WinForms.runtimeconfig.json
+C:\Users\Timofey\Desktop\College\Лабы по C#\LAB 11\Lab10WinForms\bin\Debug\net8.0-windows\Lab8WinForms.dll
+C:\Users\Timofey\Desktop\College\Лабы по C#\LAB 11\Lab10WinForms\bin\Debug\net8.0-windows\Lab8WinForms.pdb
+C:\Users\Timofey\Desktop\College\Лабы по C#\LAB 11\Lab10WinForms\obj\Debug\net8.0-windows\Lab8WinForms.Form1.resources
+C:\Users\Timofey\Desktop\College\Лабы по C#\LAB 11\Lab10WinForms\obj\Debug\net8.0-windows\Lab8WinForms.Properties.Resources.resources
+C:\Users\Timofey\Desktop\College\Лабы по C#\LAB 11\Lab10WinForms\obj\Debug\net8.0-windows\Lab8WinForms.csproj.GenerateResource.cache
+C:\Users\Timofey\Desktop\College\Лабы по C#\LAB 11\Lab10WinForms\obj\Debug\net8.0-windows\Lab8WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timofey\Desktop\College\Лабы по C#\LAB 11\Lab10WinForms\obj\Debug\net8.0-windows\Lab8WinForms.AssemblyInfoInputs.cache
+C:\Users\Timofey\Desktop\College\Лабы по C#\LAB 11\Lab10WinForms\obj\Debug\net8.0-windows\Lab8WinForms.AssemblyInfo.cs
+C:\Users\Timofey\Desktop\College\Лабы по C#\LAB 11\Lab10WinForms\obj\Debug\net8.0-windows\Lab8WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Timofey\Desktop\College\Лабы по C#\LAB 11\Lab10WinForms\obj\Debug\net8.0-windows\Lab8WinForms.dll
+C:\Users\Timofey\Desktop\College\Лабы по C#\LAB 11\Lab10WinForms\obj\Debug\net8.0-windows\refint\Lab8WinForms.dll
+C:\Users\Timofey\Desktop\College\Лабы по C#\LAB 11\Lab10WinForms\obj\Debug\net8.0-windows\Lab8WinForms.pdb
+C:\Users\Timofey\Desktop\College\Лабы по C#\LAB 11\Lab10WinForms\obj\Debug\net8.0-windows\Lab8WinForms.genruntimeconfig.cache
+C:\Users\Timofey\Desktop\College\Лабы по C#\LAB 11\Lab10WinForms\obj\Debug\net8.0-windows\ref\Lab8WinForms.dll
